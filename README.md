@@ -3,13 +3,13 @@
 **Spring and Spring Boot** Frameworks are the **No 1 frameworks** for building enterprise apps in the Java world. 
 
 
-#Install Tools
-## Our Recommendations
- - Use latest version of Java
- - Use latest version of "Eclipse IDE for Enterprise Java Developers"
- - Remember: Spring Boot 3+ works only with Java 17+
+# Installed Tools
+ - Latest version of Java
+ - Latest version of "STS"</br>
+ 
+ Note: Spring Boot 3+ works only with Java 17+
 
-# Used
+# Implementation
 
 - Designed Resources and GET, POST and DELETE operations.
 - Implemented Validation for RESTful Web Services.
